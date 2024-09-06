@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: cursive;
+    margin: 0;
+}
+.anchor-btn{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 5px ;
+    background-color: slateblue;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+section{
+    height: 500px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-area{
+    background-image: url(../images/rsz_1header-bg.png);
+    background-position: left;
+    
+}
+#header-text-area{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.my-img{
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.half-width h1{
+    font-size: 35px;
+    margin-top: 0;
+}
+.half-width p{
+    margin: 30px 0px;
+}
+.onlyfortopmargin{
+    margin-top: 8%;
+    padding-left: 8%;
+    margin-right: 0;
+}
+.portfolio img{
+    width: 31%;
+    float: left;
+    padding: 1%;
+    margin-left: 2%;
+    border: 1px solid black;
+    height: 300px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+.middle-area{
+    background-image: url(../images/biography-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url(../images/latest-work-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.client-say{
+    text-align: center;
+    padding: 0 30%;
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client-say h1{
+    margin-bottom: 60px;
+}
+.moccy{
+    padding: 10px;
+}
+.moccy h3{
+    margin-bottom: 0px;
+}
+.moccy p{
+    padding-top: 0px;
+}
+.exit-area{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+
+}
+
+.forheading h1{
+    padding-left: 40%;
+}
